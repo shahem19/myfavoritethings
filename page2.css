@@ -1,0 +1,42 @@
+page2Title {
+    position: relative;
+    color: brown;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    }
+    
+    .sportsTable {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    color: darkgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .Basketball {
+    position: relative;
+    text-align: center;
+    top: 50px;
+    }
+    
+    .Baseball {
+    position: relative;
+    text-align: center;
+    top: 75px;
+    }
+    
+    .NFL {
+    position: relative;
+    text-align: center;
+    top: 100px;
+    }
+    
+    .Back{
+    position: relative;
+    left: 10px;
+    bottom: 1px;
+    }
+    
+    body{
+    background-color:rgb(253, 253, 253);
+    }

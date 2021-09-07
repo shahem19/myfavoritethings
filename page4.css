@@ -1,0 +1,42 @@
+.FavoriteMovie {
+    position: relative;
+    color: brown;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    }
+    
+    .MovieTable{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    color: darkgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .Disturbia {
+    position: relative;
+    text-align: center;
+    top: 50px;
+    }
+    
+    .Chronicle {
+    position: relative;
+    text-align: center;
+    top: 75px;
+    }
+    
+    .Fastandfurious {
+    position: relative;
+    text-align: center;
+    top: 100px;
+    }
+    
+    .GOBACK {
+    position: relative;
+    left: 10px;
+    bottom: 1px;
+    }
+    
+    body{
+    background-color:rgb(245, 220, 221);
+    }

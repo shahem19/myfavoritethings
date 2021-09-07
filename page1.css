@@ -1,0 +1,36 @@
+.pg1Title {
+    position: relative;
+    text-align: center;
+    color: rgb(32, 2, 2);
+    font-family: 'Times New Roman', Times, serif;
+    text-size-adjust: 54;
+    } 
+    
+    .pg1Title2 {
+    position: relative;
+    text-align: center;
+    color: rgb(1, 15, 15);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .sports {
+    position: relative;
+    text-align: center;
+    top: 25px;
+    }
+    
+    .foods {
+    position: relative;
+    text-align: center;
+    top: 65px;
+    }
+    
+    .movies {
+    position: relative;
+    text-align: center;
+    top: 105px;
+    }
+    
+    body{
+    background-color:rgba(180, 130, 130, 0.979);
+    }
